@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parkinglot.ParkingServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-14T18:05:40" hostname="Romans-Air" time="0.156">
+  <properties/>
+  <testcase name="should_return_expected_hits_in_interval()" classname="parkinglot.ParkingServiceTest" time="0.112"/>
+  <testcase name="should_reject_already_registered_car()" classname="parkinglot.ParkingServiceTest" time="0.009"/>
+  <testcase name="should_successfully_register_car()" classname="parkinglot.ParkingServiceTest" time="0.012"/>
+  <testcase name="should_close_parking_event()" classname="parkinglot.ParkingServiceTest" time="0.002"/>
+  <testcase name="should_return_busy_slots_count()" classname="parkinglot.ParkingServiceTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
